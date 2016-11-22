@@ -1,7 +1,6 @@
 # chao
 ####################################################################################
-# FUNCTION to compute Chao's alpha and beta diversity, expressed as Hill Numbers,
-# for a set of communities
+# FUNCTION to compute Chao's alpha and beta diversity, expressed as Hill Numbers for a set of communities
 #
 # This function requires the installation of packages entropart (REF PACKAGE  + papier MARCON)
 #
