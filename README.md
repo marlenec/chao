@@ -1,4 +1,4 @@
-<title> <b> Function to compute Chao's alpha and beta diversities </b> </title>
+<b>Function to compute Chao's alpha and beta diversities</b>
 
 <body>This function computes alpha and pairwise beta diversity values for a set of communities, following the unified framework of Chao et al. (Ann. Rev. Ecol. Evol. Sys., 2014).
 
